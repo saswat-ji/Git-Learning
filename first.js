@@ -6,3 +6,5 @@ console.log(login);
 
 const footer = "Footer added in our wedsite";
 console.log(footer);
+const payment = "Integrated the payment geteway";
+console.log(payment);
